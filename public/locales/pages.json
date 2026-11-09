@@ -1,0 +1,36 @@
+{
+  "pages": {
+    "en": {
+      "Alle Umfragen sind geschlossen — zuletzt {0}.": "All polls are closed — most recently {0}.",
+      "Als final festlegen": "Set as final",
+      "Beliebtesten Termin festlegen": "Set most popular date",
+      "Beliebtesten Termin festlegen & schließen": "Set most popular date & close",
+      "Der Ablauf „Umfrage abschließen“ ist nicht verfügbar.": "The \"Close poll\" flow is not available.",
+      "Erste Umfrage anlegen": "Create first poll",
+      "Finaler Termin": "Final date",
+      "In neuem Tab öffnen": "Open in new tab",
+      "Keine Umfrage in dieser Auswahl.": "No polls in this selection.",
+      "Kopieren nicht möglich — öffne die Seite und kopiere den Link dort.": "Copy not possible — open the page and copy the link there.",
+      "Lege deine erste Umfrage an und teile den Link.": "Create your first poll and share the link.",
+      "Link kopieren": "Copy link",
+      "Link kopiert": "Link copied",
+      "Meiste Ja": "Most Yes",
+      "Neue Umfrage": "New poll",
+      "Noch keine Terminvorschläge.": "No proposed dates yet.",
+      "Noch keine Umfrage. Lege eine an, trage Terminvorschläge ein und teile den Link mit den Teilnehmenden.": "No poll yet. Create one, add proposed dates and share the link with the participants.",
+      "Offen sind {0}.": "{0} still open.",
+      "Offene Umfragen": "Open polls",
+      "Ohne finalen Termin": "Without final date",
+      "QR-Code": "QR code",
+      "Umfrage ansehen": "View poll",
+      "{0} Ja": "{0} Yes",
+      "{0} Nein": "{0} No",
+      "{0} Teilnehmende": "{0} participants",
+      "{0} Vielleicht": "{0} Maybe",
+      "{0} — finaler Termin festgelegt, Umfrage geschlossen": "{0} — final date set, poll closed",
+      "{0}: alle Terminvorschläge liegen in der Vergangenheit.": "{0}: all proposed dates are in the past.",
+      "— alle Terminvorschläge sind vorbei, es fehlt noch der finale Termin.": "— all proposed dates have passed, the final date is still missing."
+    }
+  },
+  "v": 1
+}
