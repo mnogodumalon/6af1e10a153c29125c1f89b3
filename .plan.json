@@ -148,7 +148,8 @@
             "teilnehmer_vorname": "user",
             "teilnehmer_nachname": "user",
             "umfrage": "picked",
-            "terminvorschlag": "picked"
+            "terminvorschlag": "picked",
+            "antwort": "user"
           },
           "fixed": {}
         }
